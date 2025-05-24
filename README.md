@@ -1,2 +1,0 @@
-# CocukEtkinlik_
- Proje
